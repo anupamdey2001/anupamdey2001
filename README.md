@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **MERN Stack**
 
-- 👨‍💻 All of my projects are available at [www.anupamdey.com](www.anupamdey.com)
+- 👨‍💻 All of my projects are available at [www.anupamdey.com](https://www.anupamdey.com/)
 
 - 💬 Ask me about **Full Stack Development**
 
