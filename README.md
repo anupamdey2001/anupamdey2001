@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/anupamd29688766" target="blank"><img src="https://img.shields.io/twitter/follow/anupamd29688766?logo=twitter&style=for-the-badge" alt="anupamd29688766" /></a> </p>
 
-- 🔭 I’m currently working on a blog website using ejs **Daily Journal**
+- 🔭 I’m currently working on fully functional ecommerce using **PHP**
 
-- 🌱 I’m currently learning **MERN Stack**
+- 🌱 I’m currently learning **React.js**
 
 - 👨‍💻 All of my projects are available at [www.anupamdey.com](https://www.anupamdey.com/)
 
@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **anupamdey2001@gmail.com**
 
-- ⚡ Fun fact **I want to be kid Forever🤣**
+- ⚡ Fun fact **I want to be kid Forever😃**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
