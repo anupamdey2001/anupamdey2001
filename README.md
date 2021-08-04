@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamdey2001&label=Profile%20views&color=0e75b6&style=flat" alt="anupamdey2001" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anupamdey2001" alt="anupamdey2001" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/anupamd29688766" target="blank"><img src="https://img.shields.io/twitter/follow/anupamd29688766?logo=twitter&style=for-the-badge" alt="anupamd29688766" /></a> </p>
 
 - 🔭 I’m currently working on fully functional ecommerce using **PHP**
