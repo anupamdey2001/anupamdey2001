@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on fully functional ecommerce using **PHP**
 
-- 🌱 I’m currently learning **React.js**
+- 🌱 I’m currently learning **JAVA**
 
 - 👨‍💻 All of my projects are available at [www.anupamdey.com](https://www.anupamdey.com/)
 
