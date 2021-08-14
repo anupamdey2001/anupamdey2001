@@ -1,4 +1,4 @@
-<a href="#"><img width="100%" height="auto" src="https://64.media.tumblr.com/aa3325cdb0eeb4c104ed7d5cb6fa97a3/tumblr_pznxboSBCx1ru322to1_1280.jpg" height="100px" width="100px"/></a>
+<a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="100px" width="100px"/></a>
 <h1 align="center">Hello World 👋,Jay Shree Krisha :) I'm Anupam</h1>
 <h3 align="center">A self-taught Computer Programmer from India</h3>
 
