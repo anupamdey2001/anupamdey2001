@@ -1,10 +1,9 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="100px" width="100px"/></a>
-<h1 align="center">Hello World 👋,Jay Shree Krisha :) I'm Anupam</h1>
+<h1 align="center">Hello World 👋, Jay Shree Krisha :) I'm Anupam</h1>
 <h3 align="center">A self-taught Computer Programmer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=anupamdey2001&label=Profile%20views&color=0e75b6&style=flat" alt="anupamdey2001" /> </p>
-
-<p align="left"> <a href="https://twitter.com/anupamd29688766" target="blank"><img src="https://img.shields.io/twitter/follow/anupamd29688766?logo=twitter&style=for-the-badge" alt="anupamd29688766" /></a> </p>
+<img src="https://komarev.com/ghpvc/?username=anupamdey2001&label=Profile%20views&color=0e75b6&style=flat" alt="anupamdey2001" />
+[My Resume!](https://drive.google.com/file/d/1TlvRBJDl6Gntr1XkuQ8vkhPBv7f405Tk/view?usp=sharing)
 
 - 🔭 I’m currently working on fully functional ecommerce using **PHP**
 
