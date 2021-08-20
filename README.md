@@ -3,8 +3,8 @@
 <h3 align="center">A self-taught Computer Programmer from India</h3>
 
 <img src="https://komarev.com/ghpvc/?username=anupamdey2001&label=Profile%20views&color=0e75b6&style=flat" alt="anupamdey2001" />
-[My Resume!](https://drive.google.com/file/d/1TlvRBJDl6Gntr1XkuQ8vkhPBv7f405Tk/view?usp=sharing)
 
+<a href="https://drive.google.com/file/d/1TlvRBJDl6Gntr1XkuQ8vkhPBv7f405Tk/view?usp=sharing" target="blank">My Resume!</a>
 - 🔭 I’m currently working on fully functional ecommerce using **PHP**
 
 - 🌱 I’m currently learning **JAVA**
