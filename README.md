@@ -1,5 +1,5 @@
 <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="100px" width="100px"/></a>
-<h1 align="center">Hello World 👋, Jay Shree Krisha :) I'm Anupam</h1>
+<h1 align="center">Hello World 👋, Jay Shree Krishna :) I'm Anupam</h1>
 <h3 align="center">A self-taught Computer Programmer from India</h3>
 
 <img src="https://komarev.com/ghpvc/?username=anupamdey2001&label=Profile%20views&color=0e75b6&style=flat" alt="anupamdey2001" />
